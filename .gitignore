@@ -1,7 +1,3 @@
-node_modules
-.vscode
-.idea
-swagger-test-cli.*
-swagger-test-cli
-dist
-.env
+/.yarn/
+/dist/
+/node_modules/
